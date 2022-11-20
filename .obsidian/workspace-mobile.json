@@ -117,6 +117,14 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "c3b7a67fd5f58a57",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0

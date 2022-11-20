@@ -1,28 +1,5 @@
-- numarasız liste
-- numarasız liste
-- numarasız liste
-
-1. numaralı liste 1
-2. numaralı liste 2
-3. numaralı liste 3
-
-- numarasız liste
-- numarasız liste
-- numarasız liste
-	- alt numarasız liste -> -TAB- tuşuna basın
-	- alt numarasız liste
-	- alt numarasız liste 
-- numarasız liste
-- numarasız liste
-
-1. numaralı liste 1
-	1. alt numaralı liste 1
-	2. alt numaralı liste 2
-	3. alt numaralı liste 3
-2. numaralı liste 2
-3. numaralı liste 3
 ## Başlarken
-Dilinizi değiştirmek isterseniz sol alt köşede bulunan **`Settings`** bölümüne tıklayıp `About` sekmesine tıklayıp `Language` alanından değiştirebilirsiniz.
+Dilinizi değiştirmek isterseniz sol alt köşede bulunan **`Settings`** bölümünden`About` sekmesine tıklayıp `Language` alanından değiştirebilirsiniz.
 
 ```mermaid
 stateDiagram-v2
@@ -72,7 +49,7 @@ Uygulama birçok özellik içerdiğinden kategorileştirme ihtiyacı hissettim. 
 5. [[Uyarı Metinleri]]
 6. [[Kod Blokları]]
 7. [[Gizli Yorumlar]] %%Easter Eggs 😸%%
-8. [[Diagramlar]] 
+8. [[Diyagramlar]] 
 9. [[Yerleştirmeler]]
 10. [[Vurgular]]
 	1. [[Üstünü Çizme]]

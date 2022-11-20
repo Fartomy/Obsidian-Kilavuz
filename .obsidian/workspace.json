@@ -4,38 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f67f64e9a4da457a",
+        "id": "ba4489c67f7e5d99",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 53.01914580265096,
         "children": [
           {
-            "id": "1d7471f25a58c9f3",
+            "id": "6627b5d0fccbf467",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
+                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
                 "mode": "source",
                 "source": true
-              },
-              "pinned": true
+              }
             }
           }
         ]
       },
       {
-        "id": "b2bda73e863b4bc8",
+        "id": "7b0d881a9c779a48",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 46.98085419734904,
         "children": [
           {
-            "id": "b38c97c9789ca8e1",
+            "id": "43f78970657b2d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Yönerge/Obsidian Formatlar/Uyarı Metinleri.md",
+                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
                 "mode": "preview",
                 "source": true
               }
@@ -100,15 +98,27 @@
       {
         "id": "d17534a66a25c33d",
         "type": "tabs",
-        "dimension": 63.51851851851852,
+        "dimension": 56.111111111111114,
         "children": [
+          {
+            "id": "bb7595d9112404fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "ae71544c2754598b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
+                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,50 +128,42 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "bb7595d9112404fc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3d6b24158ccf1926",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "0fb6349a369c4edd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "25a6fe7e79f59b1a",
         "type": "tabs",
-        "dimension": 36.48148148148148,
+        "dimension": 43.888888888888886,
         "children": [
+          {
+            "id": "748d43d954195783",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md"
+              }
+            }
+          },
+          {
+            "id": "6754eb0de6cbdae2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "9009a6e29c0663f9",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
+                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,17 +193,6 @@
             }
           },
           {
-            "id": "6754eb0de6cbdae2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "a872d76e81b66cab",
             "type": "leaf",
             "state": {
@@ -210,32 +201,39 @@
             }
           },
           {
-            "id": "748d43d954195783",
+            "id": "3d6b24158ccf1926",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian Yönerge/Başlangıç Noktası.md"
-              }
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fb6349a369c4edd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 260.5
   },
-  "active": "bb7595d9112404fc",
+  "active": "6627b5d0fccbf467",
   "lastOpenFiles": [
-    "Obsidian Yönerge/Obsidian Formatlar/Uyarı Metinleri.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Kod Blokları.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Gizli Yorumlar.md",
     "Obsidian Yönerge/Başlangıç Noktası.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Alıntılar.md",
     "Obsidian Yönerge/Easter Eggs.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Görev Kutuları.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Listeler.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Alıntılar.md",
     "Obsidian Yönerge/Obsidian Formatlar/Başlıklar.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Formatlar.md",
-    "Obsidian Yönerge/Zettelkasten.md",
-    "Obsidian Yönerge/🥚Easter Egg! 🥚.md"
+    "Obsidian Yönerge/Obsidian Formatlar/Listeler.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Görev Kutuları.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Untitled.md"
   ]
 }
