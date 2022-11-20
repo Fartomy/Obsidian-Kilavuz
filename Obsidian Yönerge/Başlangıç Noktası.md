@@ -56,19 +56,25 @@ Uygulama birçok özellik içerdiğinden kategorileştirme ihtiyacı hissettim. 
 	2. [[Kalınlaştırma]]
 	3. [[Eğikleştirme]]
 	4. [[Parıldatıcı]]
+	5. [[Satıriçi Kodlar]]
 11. [[Dip Notları]]
 12. [[Resimler]]
 13. [[Linkler]]
 	1. [[Dış Linkler]]
 	2. [[URI Linkler]]
 	3. [[İç Linkler]]
-16. [[Satıriçi Kodlar]]
 19. [[Yatay Bölücü]]
 20. [[Formüllemeler]]
 21. [[Tablolar]]
 22. [[Etiketler]]
 23. [[Video Gömme]]
 24. [[Ses Kaydetme]]
+
+---
+
+## Son olarak
+
+![[Son Olarak]]
 
 
 [^1]:[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)

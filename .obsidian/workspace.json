@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4489c67f7e5d99",
+        "id": "ab4a876a9cf89d8e",
         "type": "tabs",
-        "dimension": 53.01914580265096,
         "children": [
           {
-            "id": "6627b5d0fccbf467",
+            "id": "e47783161c3115aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
+                "file": "Obsidian Yönerge/Son Olarak.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,20 +22,15 @@
         ]
       },
       {
-        "id": "7b0d881a9c779a48",
+        "id": "f34f63612332271e",
         "type": "tabs",
-        "dimension": 46.98085419734904,
         "children": [
           {
-            "id": "43f78970657b2d77",
+            "id": "f316805e4ef880fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#etiket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,12 +95,30 @@
         "dimension": 56.111111111111114,
         "children": [
           {
+            "id": "748d43d954195783",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6754eb0de6cbdae2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "bb7595d9112404fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,33 +148,11 @@
         "dimension": 43.888888888888886,
         "children": [
           {
-            "id": "748d43d954195783",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md"
-              }
-            }
-          },
-          {
-            "id": "6754eb0de6cbdae2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "9009a6e29c0663f9",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,23 +206,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 295.5
   },
-  "active": "6627b5d0fccbf467",
+  "active": "f316805e4ef880fc",
   "lastOpenFiles": [
-    "Obsidian Yönerge/Obsidian Formatlar/Kod Blokları.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Diyagramlar.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Gizli Yorumlar.md",
+    "Obsidian Yönerge/Son Olarak.md",
     "Obsidian Yönerge/Başlangıç Noktası.md",
-    "Obsidian Yönerge/Easter Eggs.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Alıntılar.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Başlıklar.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Listeler.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Görev Kutuları.md",
-    "Obsidian Yönerge/Obsidian Formatlar/Untitled.md"
+    "Obsidian Yönerge/Obsidian Formatlar/Linkler/URI Linkler.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Ses Kaydetme.md",
+    "Obsidian Yönerge/Malzemeler/Recording 20221121001116.webm",
+    "Obsidian Yönerge/Malzemeler/Recording 20221121000919.webm",
+    "Recording 20221121000709.webm",
+    "Obsidian Yönerge/Obsidian Formatlar/Video Gömme.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Etiketler.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Görev Kutuları.md"
   ]
 }
