@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "68b662f9de836742",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67f64e9a4da457a",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "1d7471f25a58c9f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2bda73e863b4bc8",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "b38c97c9789ca8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Yönerge/Obsidian Formatlar/Uyarı Metinleri.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aebe18096f39a109",
+    "type": "split",
+    "children": [
+      {
+        "id": "f535632faae6efdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a71fde22db50178e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "e02a3a88fcc2f33d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b6f290780b96dd0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "414065a62d349dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17534a66a25c33d",
+        "type": "tabs",
+        "dimension": 63.51851851851852,
+        "children": [
+          {
+            "id": "ae71544c2754598b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb7595d9112404fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d6b24158ccf1926",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fb6349a369c4edd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "25a6fe7e79f59b1a",
+        "type": "tabs",
+        "dimension": 36.48148148148148,
+        "children": [
+          {
+            "id": "9009a6e29c0663f9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Obsidian Yönerge/Başlangıç Noktası.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.34147441013882934,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "6754eb0de6cbdae2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a872d76e81b66cab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "748d43d954195783",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Yönerge/Başlangıç Noktası.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "active": "bb7595d9112404fc",
+  "lastOpenFiles": [
+    "Obsidian Yönerge/Obsidian Formatlar/Uyarı Metinleri.md",
+    "Obsidian Yönerge/Başlangıç Noktası.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Alıntılar.md",
+    "Obsidian Yönerge/Easter Eggs.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Görev Kutuları.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Listeler.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Başlıklar.md",
+    "Obsidian Yönerge/Obsidian Formatlar/Formatlar.md",
+    "Obsidian Yönerge/Zettelkasten.md",
+    "Obsidian Yönerge/🥚Easter Egg! 🥚.md"
+  ]
+}
