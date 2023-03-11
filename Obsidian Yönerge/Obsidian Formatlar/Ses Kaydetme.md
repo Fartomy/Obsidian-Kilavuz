@@ -12,6 +12,6 @@ AudioRecorder --> [*]
 ```
 
 ```md
-![[Recording 20221121000919.webm -> Ses kaydı bağlantısını eklenmeli
+![[Recording 20221121000919.webm]] -> Ses kaydı bağlantısı eklenmeli
 ```
 ![[Recording 20221121000919.webm]]

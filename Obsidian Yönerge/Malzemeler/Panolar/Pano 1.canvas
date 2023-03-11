@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"file","file":"Malzemeler/Dosyalar/Çıktı alma.pdf","id":"3c87eceec116d359","x":-1560,"y":1080,"width":1400,"height":1760,"color":"1"},
+		{"type":"file","file":"Obsidian Formatlar/Pano.md","id":"a7b8767df49840ff","x":240,"y":0,"width":1120,"height":1760,"color":"6"},
+		{"id":"8ed70dd63cfe8619","x":-1102,"y":240,"width":485,"height":120,"color":"3","type":"text","text":"Herşey için çok teşekkürler **Obsidian**. 💖"}
+	],
+	"edges":[
+		{"id":"ebfb0c646bb392ac","fromNode":"a7b8767df49840ff","fromSide":"left","toNode":"3c87eceec116d359","toSide":"right"},
+		{"id":"2db50f8c51d8a0f1","fromNode":"8ed70dd63cfe8619","fromSide":"right","toNode":"a7b8767df49840ff","toSide":"left"},
+		{"id":"a2bdc31907c2806a","fromNode":"8ed70dd63cfe8619","fromSide":"bottom","toNode":"3c87eceec116d359","toSide":"top"}
+	]
+}

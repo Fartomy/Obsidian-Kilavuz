@@ -1,4 +1,6 @@
 ## Başlarken
+
+#### Dil
 Dilinizi değiştirmek isterseniz sol alt köşede bulunan **`Settings`** bölümünden`About` sekmesine tıklayıp `Language` alanından değiştirebilirsiniz.
 
 ```mermaid
@@ -12,6 +14,8 @@ About --> Language
 
 Language --> [*]
 ```
+
+#### Tema
 Ve eğer temanızı değiştirmek isterseniz yine sırasıyla `Settings->Appearance->Manage` işlemlerini yapmanız gerekiyor.
 
 ```mermaid
@@ -24,6 +28,21 @@ Settings --> Appearance
 Appearance --> Manage
 
 Manage --> [*]
+```
+
+#### Görüntüleme Modu
+Başlangıçta görüntüleme modunu değiştirmek için `Setting->Editor->Default view for new tabs` ayarından `Reading view` opsiyonunu seçmenizi tercih ederim.
+
+```mermaid
+stateDiagram-v2
+
+[*] --> Settings
+
+Settings --> Editor 
+
+Editor --> Default_
+
+Default_ --> [*]
 ```
 
 ---
@@ -69,6 +88,16 @@ Uygulama birçok özellik içerdiğinden kategorileştirme ihtiyacı hissettim. 
 22. [[Etiketler]]
 23. [[Video Gömme]]
 24. [[Ses Kaydetme]]
+25. [[Hotkeys]]
+26. [[Ara, Bul ve Değiştir]]
+27. [[Çıktı alma]]
+28. [[İçe Aktarma]]
+29. [[Taslaklar]]
+30. [[Günlük Notlar]]
+31. [[Satır Boşluğu]]
+32. [[Sorgu Blokları]]
+33. [[Yeni Notların Konumu]]
+34. [[Pano]]
 
 ---
 

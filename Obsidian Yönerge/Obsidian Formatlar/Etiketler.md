@@ -3,6 +3,17 @@ Etiketler Obsidian'da **bir şey araken** yardımcı olabilirler. Bir **etiket**
 ```md
 #etiket
 ```
+
 #etiket
 
-%%#şuözelliklerbitsinartık 😿%%
+ Ayrıca etiketlere **alt etiket** ekleyebilirsiniz;
+
+```md
+#etiket/altetiket
+```
+
+#etiket/altetiket1
+
+#etiket/altetiket2
+
+%%#şuözelliklerbitsinartık/😿%%
