@@ -1,2 +1,3 @@
 # Obsidian-Kilavuz
-It is about my Obsidian Note App Notes.
+
+Obsidian not uygulamasına yeni başlayanlar için hazırlanmış olan bir başlangıç rehberi, kılavuzu diyebiliriz.
