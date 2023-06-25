@@ -10,5 +10,6 @@ Obsidian not uygulaması ile alakalı hazırlamış olduğum bir kılavuz. Uygul
 2. Özellikler
 3. Uzantılar
 4. Easter Egg'ler
+</br>
 
-![Gif](https://github.com/Fartomy/Obsidian-Kilavuz/blob/main/images/obs-gif.gif)
+![Gif](https://github.com/Fartomy/Obsidian-Kilavuz/blob/main/images/graphxr.gif)
