@@ -1,4 +1,4 @@
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Logo](https://github.com/Fartomy/Obsidian-Kilavuz/blob/main/images/obsidian-logo.png)
 
 # :notebook: Obsidian Not Uygulaması Baslangıç Kılavuzu
 
@@ -10,3 +10,5 @@ Obsidian not uygulaması ile alakalı hazırlamış olduğum bir kılavuz. Uygul
 2. Özellikler
 3. Uzantılar
 4. Easter Egg'ler
+
+![Gif](https://github.com/Fartomy/Obsidian-Kilavuz/blob/main/images/obs-gif.gif)
