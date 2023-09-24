@@ -98,6 +98,7 @@ Uygulama birçok özellik içerdiğinden kategorileştirme ihtiyacı hissettim. 
 32. [[Sorgu Blokları]]
 33. [[Yeni Notların Konumu]]
 34. [[Pano]]
+35. [[Özellikler (Properties)]]
 
 ---
 
